@@ -1,6 +1,26 @@
 
 # 💫 About Me:
-👋 Hello! I'm Matías<br>I'm a 21-year-old junior programmer with a passion for technology and software development. Originally from Argentina, I'm currently pursuing a bachelor's degree in computer science at the National University of Quilmes. My enthusiasm for learning and growing in the field of programming drives me to constantly seek out new challenges and opportunities to improve my skills.<br><br>🚀 What defines me?<br>Insatiable Curiosity: I'm always exploring new technologies and methods to solve problems in innovative ways.<br>Continuous Learning: With each project, I strive to learn something new and apply that knowledge effectively.<br>Collaboration and Growth: I enjoy working as a team and contributing to projects that make a real impact. Sharing knowledge and experiences is key to my professional and personal development.<br>🔧 What skills do I have?<br>Programming Languages: JavaScript, React, HTML, CSS, C# (.NET Entity Framework)<br>Tools and Technologies: Git, GitHub, SQL Server, Postman, Visual Studio, Visual Studio Code<br>Project Development:<br>Task List: Development of an application that allows you to add, cross off, and delete tasks.<br>Movie ABM: Complete front-end, back-end, and database implementation for a movie management system.<br>🌟 What am I looking for?<br>I'm eager to join challenging projects where I can apply and expand my knowledge. I'm looking for opportunities that allow me to collaborate with talented teams and contribute to the success of innovative projects. My goal is to continuously grow and face challenges that allow me to stand out and make a difference in the world of technology.<br><br>If you are looking for someone with a proactive attitude, enthusiasm and a strong desire to learn, do not hesitate to contact me!
+👋 Hello! I'm Matías
+I'm a 21-year-old junior programmer with a passion for technology and software development. Originally from Argentina, I'm currently pursuing a bachelor's degree in computer science at the National University of Quilmes. My enthusiasm for learning and growing in the field of programming drives me to constantly seek out new challenges and opportunities to improve my skills.
+
+🚀 What defines me?
+Insatiable Curiosity: I'm always exploring new technologies and methods to solve problems in innovative ways.
+Continuous Learning: With each project, I strive to learn something new and apply that knowledge effectively.
+Collaboration and Growth: I enjoy working as a team and contributing to projects that make a real impact. Sharing knowledge and experiences is key to my professional and personal development.
+
+🔧 What skills do I have?
+Programming Languages: JavaScript, React, HTML, CSS, C# (.NET Entity Framework)
+Tools and Technologies: Git, GitHub, SQL Server, Postman, Visual Studio, Visual Studio Code
+Project Development:
+
+Task List: Development of an application that allows you to add, cross off, and delete tasks.
+Movie ABM: Complete front-end, back-end, and database implementation for a movie management system.
+🌟 What am I looking for?
+I'm eager to join challenging projects where I can apply and expand my knowledge. I'm looking for opportunities that allow me to collaborate with talented teams and contribute to the success of innovative projects. My goal is to continuously grow and face challenges that allow me to stand out and make a difference in the world of technology.
+
+Additionally, I am currently part of Dojo Coding, where I am expanding my expertise in Web3 and learning Cairo.
+
+If you are looking for someone with a proactive attitude, enthusiasm, and a strong desire to learn, do not hesitate to contact me!
 
 
 ## 🌐 Socials:
