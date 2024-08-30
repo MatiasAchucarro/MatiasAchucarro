@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 👋 Hello! I'm Matías
-I'm a 21-year-old junior programmer with a passion for technology and software development. Originally from Argentina, I'm currently pursuing a bachelor's degree in computer science at the National University of Quilmes. My enthusiasm for learning and growing in the field of programming drives me to constantly seek out new challenges and opportunities to improve my skills.
+I'm a 21-year-old  programmer with a passion for technology and software development. Originally from Argentina, I'm currently pursuing a bachelor's degree in computer science at the National University of Quilmes. My enthusiasm for learning and growing in the field of programming drives me to constantly seek out new challenges and opportunities to improve my skills.
 
 🚀 What defines me?
 Insatiable Curiosity: I'm always exploring new technologies and methods to solve problems in innovative ways.
