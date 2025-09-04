@@ -1,26 +1,36 @@
+💫 Sobre mí:
 
-# 💫 About Me:
-👋 Hello! I'm Matías
-I'm a 21-year-old  programmer with a passion for technology and software development. Originally from Argentina, I'm currently pursuing a bachelor's degree in computer science at the National University of Quilmes. My enthusiasm for learning and growing in the field of programming drives me to constantly seek out new challenges and opportunities to improve my skills.
+👋 ¡Hola! Soy Matías
+Tengo 22 años y soy programador con una gran pasión por la tecnología y el desarrollo de software. Soy de Argentina y actualmente estoy estudiando la Licenciatura en Informática en la Universidad Nacional de Quilmes, la Tecnicatura en Programación en la UTN, y realizando el CBC en la UBA para la Licenciatura en Ciencia de la Computación.
 
-🚀 What defines me?
-Insatiable Curiosity: I'm always exploring new technologies and methods to solve problems in innovative ways.
-Continuous Learning: With each project, I strive to learn something new and apply that knowledge effectively.
-Collaboration and Growth: I enjoy working as a team and contributing to projects that make a real impact. Sharing knowledge and experiences is key to my professional and personal development.
+Mi entusiasmo por aprender y crecer en el mundo de la programación me impulsa a buscar constantemente nuevos desafíos y oportunidades para mejorar mis habilidades.
 
-🔧 What skills do I have?
-Programming Languages: JavaScript, React, HTML, CSS, C# (.NET Entity Framework)
-Tools and Technologies: Git, GitHub, SQL Server, Postman, Visual Studio, Visual Studio Code
-Project Development:
+🚀 ¿Qué me define?
 
-Task List: Development of an application that allows you to add, cross off, and delete tasks.
-Movie ABM: Complete front-end, back-end, and database implementation for a movie management system.
-🌟 What am I looking for?
-I'm eager to join challenging projects where I can apply and expand my knowledge. I'm looking for opportunities that allow me to collaborate with talented teams and contribute to the success of innovative projects. My goal is to continuously grow and face challenges that allow me to stand out and make a difference in the world of technology.
+Curiosidad insaciable: siempre estoy explorando nuevas tecnologías y métodos para resolver problemas de forma innovadora.
 
-Additionally, I am currently part of Dojo Coding, where I am expanding my expertise in Web3 and learning Cairo.
+Aprendizaje continuo: en cada proyecto busco adquirir algo nuevo y aplicarlo de manera práctica.
 
-If you are looking for someone with a proactive attitude, enthusiasm, and a strong desire to learn, do not hesitate to contact me!
+Colaboración y crecimiento: disfruto trabajar en equipo y contribuir en proyectos que generen impacto real. Compartir conocimiento es clave para mi desarrollo profesional y personal.
+
+🔧 Mis habilidades
+
+Lenguajes de programación: JavaScript, React, Python, HTML, CSS, C# (.NET Entity Framework), SQL Server
+
+Herramientas y tecnologías: Git, GitHub, Postman, Visual Studio, Visual Studio Code
+
+Proyectos destacados:
+
+Lista de tareas: aplicación que permite agregar, tachar y eliminar tareas.
+
+ABM de películas: implementación completa de front-end, back-end y base de datos para la gestión de películas.
+
+🌟 ¿Qué busco?
+Estoy con ganas de sumarme a proyectos desafiantes donde pueda aplicar y expandir mis conocimientos. Busco oportunidades para colaborar con equipos talentosos y aportar al éxito de proyectos innovadores. Mi objetivo es seguir creciendo, asumir nuevos retos y marcar la diferencia en el mundo de la tecnología.
+
+Además, formo parte de Dojo Coding, donde estoy ampliando mis conocimientos en Web3 y aprendiendo Cairo.
+
+👉 Si buscás a alguien con actitud proactiva, entusiasmo y muchas ganas de aprender, no dudes en contactarme.
 
 
 ## 🌐 Socials:
